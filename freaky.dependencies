@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "vendor_leeco",
+    "target_path": "vendor/leeco",
+    "branch": "still_alive"
+  },
+  {
+    "repository": "kernel_leeco_msm8976",
+    "target_path": "kernel/leeco/msm8976",
+    "branch": "still_alive"
+  }
+]

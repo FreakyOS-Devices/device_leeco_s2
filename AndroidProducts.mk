@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cesium_s2.mk
+    $(LOCAL_DIR)/freaky_s2.mk
 
 COMMON_LUNCH_CHOICES := \
-    cesium_s2-user \
-    cesium_s2-userdebug \
-    cesium_s2-eng
+    freaky_s2-user \
+    freaky_s2-userdebug \
+    freaky_s2-eng
